@@ -1,0 +1,1 @@
+This packages contains a class to work with datasets containing attributes of different classes, numeric, categorical or boolean.
